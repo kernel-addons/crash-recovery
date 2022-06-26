@@ -1,0 +1,7 @@
+{
+    "name": "Crash Recovery",
+    "id": "strencher.crash-recovery",
+    "description": "A kernel package that allows you to recover from react invariant crashes.",
+    "author": "Strencher",
+    "dependencies": []
+}

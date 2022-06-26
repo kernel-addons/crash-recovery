@@ -1,0 +1,11 @@
+.crash-recovery-invariant {
+    background: var(--background-secondary-alt);
+    padding: 10px;
+    border-radius: 10px;
+    border: thin solid var(--background-tertiary);
+    color: #ed4245;
+}
+
+.crash-recovery-buttons {
+    gap: 10px;
+}
